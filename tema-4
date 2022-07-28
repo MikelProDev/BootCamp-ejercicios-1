@@ -1,0 +1,14 @@
+let num
+num = 0
+
+if (num < 0) {
+    console.log(`${num} es negativo`)
+}else{
+    console.log(`${num} es positivo`)
+}
+
+let numero = 0
+
+for (i=0; i<=3; i++){
+    console.log(i)
+}
