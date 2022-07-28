@@ -1,0 +1,16 @@
+//Primera parte
+function suma (a, b, c){
+  return a + b + c
+}
+
+resultado (2,4,6)
+
+
+//Segunda Parte
+class Car {
+  let doors : 0
+  const incr = () => doors++
+}
+
+myCar = new Car 
+  
